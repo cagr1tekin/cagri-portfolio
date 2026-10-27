@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Çağrı Tekin",
+    "roles": ["Systems Engineer", "Full-Stack Developer", "UI/UX Designer"],
+    "tagline": "Architects systems, writes backends, ships interfaces.",
+    "subtitle": "One point of contact from brief to deployment.",
+    "cta_projects": "View Projects",
+    "cta_contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About",
+    "bio": "Computer Engineering student at Selçuk University. I build software from three perspectives: system architecture, full-stack development, and user experience. Toyota TMMT intern, Frontend Chapter Lead at Divizyon, and active freelance developer delivering production-grade projects for real clients.",
+    "identity_1_title": "Systems Engineer",
+    "identity_1_desc": "Docker, CI/CD, architectural decisions. Building systems that scale correctly from day one.",
+    "identity_2_title": "Full-Stack Developer",
+    "identity_2_desc": "Next.js to NestJS, PostgreSQL to Supabase. End-to-end from brief to deployment.",
+    "identity_3_title": "UI/UX Designer",
+    "identity_3_desc": "Framer Motion, Three.js, component systems. Interfaces that work well, not just look good.",
+    "stack_title": "Tech Stack"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Live projects delivered for real clients.",
+    "filter_all": "All",
+    "filter_freelance": "Freelance",
+    "filter_team": "Team",
+    "filter_personal": "Personal",
+    "live_url": "Live",
+    "github_url": "GitHub",
+    "featured": "Featured"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Real-world, measurable experience.",
+    "present": "Present"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I use in production.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "devops": "DevOps",
+    "ai": "AI & CV",
+    "tools": "Tools"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project? Let's talk.",
+    "name": "Full Name",
+    "email": "Email",
+    "project_type": "Project Type",
+    "project_types": {
+      "web": "Web Application",
+      "mobile": "Mobile App",
+      "corporate": "Corporate Website",
+      "saas": "SaaS Product",
+      "other": "Other"
+    },
+    "budget": "Budget Range",
+    "budgets": {
+      "low": "< $200",
+      "mid": "$200 – $600",
+      "high": "$600 – $2,000",
+      "enterprise": "$2,000 +"
+    },
+    "message": "Message",
+    "message_placeholder": "Tell me briefly about your project...",
+    "submit": "Send",
+    "submitting": "Sending...",
+    "success_title": "Message received!",
+    "success_desc": "I'll get back to you as soon as possible.",
+    "error": "Something went wrong, please try again.",
+    "required": "This field is required.",
+    "invalid_email": "Please enter a valid email."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built_with": "Built with Next.js, Framer Motion & Three.js."
+  },
+  "theme": {
+    "label": "Theme",
+    "mono": "Mono",
+    "glass": "Glass",
+    "bold": "Bold"
+  }
+}

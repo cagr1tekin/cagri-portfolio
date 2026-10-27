@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "about": "Hakkımda",
+    "projects": "Projeler",
+    "experience": "Deneyim",
+    "skills": "Yetenekler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben",
+    "name": "Çağrı Tekin",
+    "roles": ["Sistem Mühendisi", "Full-Stack Developer", "UI/UX Tasarımcı"],
+    "tagline": "Sistem kurar, backend yazar, arayüz teslim eder.",
+    "subtitle": "Brief'ten deployment'a tek muhatap.",
+    "cta_projects": "Projelerimi Gör",
+    "cta_contact": "İletişime Geç"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "bio": "Selçuk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Üç farklı perspektiften yazılım üretiyorum: sistem mimarisi, full-stack geliştirme ve kullanıcı deneyimi. Toyota TMMT'de staj, Divizyon'da Frontend Chapter Lead ve aktif freelance geliştirici olarak gerçek müşteriler için production kalitesinde projeler teslim ediyorum.",
+    "identity_1_title": "Sistem Mühendisi",
+    "identity_1_desc": "Docker, CI/CD, mimari kararlar. Sistemi doğru kurmak, ölçeklenmesini sağlamak.",
+    "identity_2_title": "Full-Stack Developer",
+    "identity_2_desc": "Next.js'ten NestJS'e, PostgreSQL'den Supabase'e. Brief'ten deployment'a eksiksiz.",
+    "identity_3_title": "UI/UX Tasarımcı",
+    "identity_3_desc": "Framer Motion, Three.js, bileşen sistemleri. Güzel görünen değil, iyi çalışan arayüzler.",
+    "stack_title": "Teknoloji Stack'i"
+  },
+  "projects": {
+    "title": "Projeler",
+    "subtitle": "Production'da çalışan, gerçek müşteriler için teslim edilmiş işler.",
+    "filter_all": "Tümü",
+    "filter_freelance": "Freelance",
+    "filter_team": "Ekip",
+    "filter_personal": "Kişisel",
+    "live_url": "Canlı",
+    "github_url": "GitHub",
+    "featured": "Öne Çıkan"
+  },
+  "experience": {
+    "title": "Deneyim",
+    "subtitle": "Gerçek ortamlarda kazanılan, ölçülebilir deneyim.",
+    "present": "Devam ediyor"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "subtitle": "Üretimde kullandığım teknolojiler.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Veritabanı",
+    "devops": "DevOps",
+    "ai": "AI & CV",
+    "tools": "Araçlar"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bir projen mi var? Konuşalım.",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "project_type": "Proje Türü",
+    "project_types": {
+      "web": "Web Uygulaması",
+      "mobile": "Mobil Uygulama",
+      "corporate": "Kurumsal Site",
+      "saas": "SaaS Ürünü",
+      "other": "Diğer"
+    },
+    "budget": "Bütçe Aralığı",
+    "budgets": {
+      "low": "< 5.000 ₺",
+      "mid": "5.000 – 15.000 ₺",
+      "high": "15.000 – 50.000 ₺",
+      "enterprise": "50.000 ₺ +"
+    },
+    "message": "Mesaj",
+    "message_placeholder": "Projen hakkında kısaca anlat...",
+    "submit": "Gönder",
+    "submitting": "Gönderiliyor...",
+    "success_title": "Mesajın ulaştı!",
+    "success_desc": "En kısa sürede geri döneceğim.",
+    "error": "Bir hata oluştu, tekrar dene.",
+    "required": "Bu alan zorunlu.",
+    "invalid_email": "Geçerli bir e-posta gir."
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "built_with": "Next.js, Framer Motion ve Three.js ile yapıldı."
+  },
+  "theme": {
+    "label": "Tema",
+    "mono": "Mono",
+    "glass": "Glass",
+    "bold": "Bold"
+  }
+}
